@@ -1,0 +1,27 @@
+
+
+root { 
+    display: block;
+}
+
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+.wrapper {
+   position:fixed;
+    top: 50%;
+    left: 50%;
+    width:38em;
+    height:20em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid
+}
+header{
+    background-image: url("header.png")
+}
+body{
+    border-top: 5px solid #f1f1f1;
+}

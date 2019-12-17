@@ -1,0 +1,56 @@
+.header-section {
+ /*   background-color: lightblue;*/
+    padding-top: 10px;
+}
+
+.table-hover {
+    margin-top: 10px;
+}
+
+.table-bordered {
+    background-color: cornsilk;
+    margin-top: 10px;
+}
+
+.table-section {
+    background-color: lightblue;
+}
+
+.heading {
+    background-color: bisque;
+}
+
+.hover-rows:hover {
+    background-color: antiquewhite;
+}
+
+.button-section {
+    background-color: lightblue;
+    padding-top: 10px;
+}
+
+.button-section:hover {
+    color: yellow;
+}
+
+.add-car-form-section {
+ /*   background-color: lightblue;*/
+}
+
+.home-section {
+  /*  background-color: lightblue;*/
+    padding-top: 30px;
+    font-size: 15px;
+}
+
+.hover:hover{
+    color: red;
+}
+
+.footer-section {
+     background-color: lightblue;
+}
+
+/*html {
+    background-color: lightblue;
+}*/
