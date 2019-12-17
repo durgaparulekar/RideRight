@@ -1,0 +1,155 @@
+/* 
+    Document   : a
+    Created on : Feb 5, 2018, 7:51:14 PM
+    Author     : admin
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+/*body{        
+        padding-top: 30px;
+        padding-bottom: 30px;
+                color: white;
+                background-color: gainsboro;
+
+        
+    }
+    .fixed-header, .fixed-footer{
+        width: 100%;
+        position: fixed;        
+        background: #333;
+        padding: 10px ;
+      
+        font-size: medium;
+          color: white;
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+        word-spacing: 80px;
+       
+            
+        
+    }
+    .fixed-header{
+        top: 0;
+    }
+    .fixed-footer{
+        bottom: 0;
+    }
+    .container{
+        width: 80%;
+        margin: 0 auto; /* Center the DIV horizontally */
+    
+    /*
+    nav a{
+        color: #fff;
+        text-decoration: none;
+        padding: 7px 25px;
+        display: inline-block;
+    }
+
+    .table {
+        
+       height: 70%;
+       width: 50%;
+        text-align: center;
+        font-size: large;
+        color: black;
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+        border: #363636;
+        background-color: gray; 
+        text-align: center;}
+    .row {
+        
+       
+               height: 70%;
+          width: 50%;
+         text-align: center;
+        font-size: large;
+        color: black;
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+         background-color: gray; 
+          text-align: center;
+        
+    } */
+   .navbar collapse .navbar header
+    {
+        background-color: gainsboro !important  ;
+        
+    }
+    
+    .body{
+             background-color: gainsboro !important ;
+             color:white !important;
+    }
+    .row{
+        
+             background-color: gainsboro !important ;
+             
+                 
+             
+    }
+   .navbar-header {
+        
+             background-color: black !important ;
+    }
+    .icon-bar{
+        background-color: black !important ;
+    }
+    .navbar-brand {
+        background-color: black !important ;
+    }
+    nav navbar-nav{
+           background-color: black !important ;
+    }
+    .container{
+        background-color: black !important ;
+        
+    }
+    .button {
+       
+        background-color: black  !important  ;
+        color:white !important;
+        padding:15px 32px !important;
+        
+        text-align: center !important;
+        display:inline-block !important;
+        
+        
+    }
+    
+    
+    .button btn btn-lg btn-success{
+        
+        background-color: black  !important  ;
+        color:white !important;
+        padding:15px 32px !important;
+        
+        text-align: center !important;
+        display:inline-block !important;
+        
+        
+    }
+    .btn-success{
+        
+        background-color: black  !important  ;
+        color:white !important;
+        padding:15px 32px !important;
+        
+        text-align: center !important;
+        display:inline-block !important;
+        
+        
+    }
+    .navbar-inverse{
+        background-color: black  !important  ;
+    }

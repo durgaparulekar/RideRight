@@ -1,0 +1,302 @@
+/* CSS Document */
+@media screen and (min-width:240px) and (max-width:1279px) {
+body { -webkit-text-size-adjust: none; }
+input, textarea { appearance: none; -moz-appearance: none; -webkit-appearance: none; }
+input[type="radio"]  { appearance: radio; -moz-appearance: radio; -webkit-appearance: radio; }
+input[type="checkbox"] { appearance: checkbox; -moz-appearance: checkbox; -webkit-appearance: checkbox; }
+}
+
+@media screen and (min-width:1024px) and (max-width:1279px) {
+.navbar-brand.logo img { width: 80%; }
+.navbar-header { float: none; }
+.navbar-toggle { margin-right: 0; margin-top: 15px; margin-bottom: 0; }
+.carousel-caption h2 { font-size: 15px; }
+.navbar-right { float: none !important; }
+#midd-part { margin-top: 70px; }
+.navbar-brand{ padding:12px 0;}
+.banner-slogan span { font-size: 45px; line-height: 45px; }
+.carousel { height: 520px; }
+.carousel-caption {  bottom: 80px; }
+.navbar-inverse .navbar-toggle { background: #333;  }
+.navbar-collapse { padding-left: 0; padding-right: 0; }
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form { border: none; }
+.navbar > .container .navbar-brand { margin-left: 0; }
+.navbar-inverse .navbar-nav > li > a { padding:7px 6px; font-size:13px;}
+.buynow a { margin-top: 2px; padding: 4px 0 !important; width:105px;}
+.navbar-collapse.in { overflow:inherit; }
+h3.page-heading { font-size: 35px; }
+.bott-part1 { height: 363px; }
+.bott-cnt h3 { font-size: 35px; }
+.bott-block1, .bott-block2 { margin-right: 40px; }
+.bott-block2 { width: 30%; }
+.bott-add { width: 75%; }
+.bott-part3 { padding: 20px 0; }
+.bott-block4 { float: none; margin: auto; clear: both; padding-top: 20px; }
+a.viewmore-box { height: 206px; padding-top: 70px; }
+.footer-address-img img{max-width:100%;}
+} 
+
+@media screen and (min-width:768px) and (max-width:1023px) {
+.navbar-brand.logo img { width: 80%; }
+.navbar-header { float: none; }
+.navbar-toggle { margin-right: 0; margin-top: 15px; margin-bottom: 0; }
+.navbar-brand{ padding:12px 0;}
+.navbar-nav > li { margin-bottom:0; width:100%; border-bottom: 1px solid #e4e4e4;}
+.navbar-inverse .navbar-nav > li > a{ padding:7px;}
+.navbar-inverse .navbar-toggle { background: #333;  }
+.navbar-collapse { padding-left: 0; padding-right: 0; }
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form { border: none; }
+.navbar > .container .navbar-brand { margin-left: 0; }
+.navbar-nav{ margin:0 0 5px; width:100%; float:left;}
+.navbar-inverse .navbar-nav > li > a { padding: 9px 7px; font-size: 13px; text-align: center; }
+.navbar-nav > li:last-child{ border:none;}
+.buynow a { margin: auto; margin-top: 2px; padding: 4px 0 !important; }
+.navbar-collapse.in { overflow:inherit; }
+.navbar-nav .buynow{ margin:5px 0 0;}
+
+#midd-part { margin-top: 70px; }
+
+h3.page-heading { font-size: 30px; }
+.bott-part1 { height: 273px; }
+.bott-cnt h3 { font-size: 35px; }
+.bott-add { width: 75%; }
+.bott-part3 { padding: 20px 0; }
+p.hd-desc { margin-bottom: 30px; }
+.bott-part2 { padding: 20px 0; }
+.bott-block2{min-height:312px;}
+.bott-block4 { padding-top:0; }
+.footer-address-img img{ max-width:100%;}
+}
+
+@media screen and (max-width:767px) {
+.navbar-nav{ margin:0 0 5px; width:100%; float:left;}
+.navbar-nav > li:last-child{ border:none;}
+.navbar-brand.logo img { width: 80%; }
+.navbar-header { float: none; }
+.navbar-toggle { margin-right: 10px; margin-top: 15px; margin-bottom: 0; }
+.carousel-caption h2 { font-size: 12px; line-height: 18px; }
+.banner-slogan { font-size: 11px; }
+.banner-slogan span { font-size: 25px; line-height: 30px; }
+.navbar-nav > li { border-bottom: 1px solid #e4e4e4; }
+#midd-part { margin-top: 70px; }
+.navbar-brand{ padding:12px 10px;}
+.navbar-inverse .navbar-toggle { background: #333;  }
+.navbar-collapse { padding-left: 0; padding-right: 0; }
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form { border: none; }
+.navbar > .container .navbar-brand { margin-left: 0; }
+.navbar-inverse .navbar-nav > li > a { padding: 7px; font-size: 12px; text-align: center; }
+.buynow a { margin: auto; margin-top: 5px;  }
+.navbar-collapse.in { overflow:inherit; }
+
+h3.page-heading { font-size: 21px; }
+.bott-part1 { height: 120px; }
+.bott-cnt h3 { font-size: 25px; }
+.bott-cnt h3 span { font-size: 16px; }
+.bott-block3 { width: auto; float: none; clear: both; padding-top: 30px; }
+.bott-block1, .bott-block2 { margin-right: 0px; width: 50%; }
+.bott-block2 { padding-top: 20px; }
+.bott-add { width: 75%; }
+.bott-part3 { padding: 20px 0; }
+.getclone-left { margin-bottom: 10px; }
+.getclone-right.fl-right { float: none !important; text-align: center; }
+.getclone-right img { width: 100%; }
+.overview-list  { float: none; padding: 20px; }
+.overview-list-cnt { width: auto; }
+.overview-screenshot h3  { font-size: 21px; }
+p.hd-desc { margin-bottom: 30px; }
+.bott-part2 { padding: 20px 0; }
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a  { background: #e8e8e8; text-align: center; }
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover { color: #000000; }
+.banner-slogan::before, .banner-slogan::after { width: auto; background-position: center; }
+.chat-now-btn, .enq-now-btn { display: none; }
+.bott-block1, .bott-block2, .bott-block3 { width: auto; float: none; margin-right: 0; }
+.bott-block3-l, .bott-block3-r { width: auto; float: none; margin: 15px 0; }
+
+.buyprod-ico { margin: auto; float: none; }
+.buyprod-desc { width: auto; float: none; font-size: 14px; text-align: center; }
+.buyprod-l { padding-top: 0; width: auto; float: none; }
+.buyprod-r { width: auto; float: none; }
+.achievement-sec{ margin:0 0 20px;}
+.achievement-img img { width:auto; }
+.bott-block4 { width: auto; float: none; }
+.bott-block4 img { width: 100%; }
+.footer-address-img img{ max-width:100%;}
+}
+
+@media screen and (min-width:1px) and (max-width:567px) {
+h1.page-heading{font-size:27px;}
+.inner-banner{ margin:0px;}
+.car-pooling-top-video-in img{ width:100%;}
+.car-pooling-top-video{ height:160px; overflow:hidden;}
+.car-pooling-top-video-in{ height:160px;}
+.start-step .start-step-inner{ width:98%;}
+.start-step ul{ background:none;}
+.start-step li{ width:47%; margin:0 5px 30px; text-align:center;}
+.start-step li p{ min-height:69px;}
+.how-to-payment{ height:auto;}
+.how-to-payment-inner{ width:100%; padding:20px 0 0;}
+.how-to-payment-inner h2.page-heading{ margin:0 0 25px; font-size:27px;}
+.how-to-payment-inner .payment-gate .pay-img1{ position:relative; top:0px;}
+.how-to-payment-inner .payment-gate .pay-img2{left: 0; margin:0px; position: relative; top: 140px; transform: rotate(100deg);}
+.how-to-payment-inner .payment-gate .pay-img3{  float: left; margin:230px 0 0 10px; position: relative; right: 0; top: 0;}
+.how-to-payment-inner .payment-gate .pay-img4{  float: right; position: relative; top: -50px;}
+.how-to-payment-inner .pay-img2 .onimg-text{left: -109px; margin: 143px 0 0; transform: rotate(-99deg);}
+
+.section-carpooling-clone .section-carpooling-clone-inner{ width:97%;}
+.section-carpooling-clone .aboutus-l{ width:100%;}
+.section-carpooling-clone .aboutus-r{ width:100%;}
+.about-help-cnt{ margin:20px 0 0; padding:0px; width:100%;}
+.car-pooling-bottom-part .car-pooling-bottom-part-right span img{ width:100%;}
+.car-pooling-bottom-part{ padding-bottom:0px;}
+.car-pooling-bottom-part .car-pooling-bottom-part-left{ width:100%; margin:0 0 10px;}
+.car-pooling-bottom-part .car-pooling-bottom-part-right{ width:100%; margin:0 0 30px;}
+.car-pooling-mid-text{ padding:20px 0; font-size:18px;}
+}
+
+@media screen and (min-width:1px) and (max-width:500px) {
+.how-to-payment-inner{ padding:20px 0;}
+.how-to-payment-inner .payment-gate .pay-img2{background: rgba(0, 0, 0, 0) url(C:\Users\Diana\Documents\PROJECT1\gocar\GoCarShare\gocarshare.com\images\images\car-pooling\pay-img-1-res.png) no-repeat scroll center center; height: 545px; left: 0; margin: 0; position: relative; top: 70px; width: 100%; transform:none;}
+.how-to-payment-inner .pay-img2 .onimg-text2{ display:none;}
+.how-to-payment-inner .pay-img2 .onimg-text{ display:none;}
+.how-to-payment-inner .pay-img2 .onimg-text3{ display:none;}
+.how-to-payment-inner .payment-gate .pay-img3{ margin:100px 0 0 10px;}
+.how-to-payment-inner .payment-gate .pay-img4{ top:0; left:20px; float:left; margin:20px 0 0;}
+}
+
+@media screen and (min-width:1px) and (max-width:414px) {
+h1.page-heading{font-size:25px;}
+.car-pooling-top-video{ height:128px; overflow:hidden;}
+.car-pooling-top-video-in{ height:128px;}
+.start-step li{ margin:0 0 25px; width:100%;}
+.start-step li p{ min-height:inherit; margin:0px;}
+.start-step li b{ margin:0 0 10px;}
+.section-carpooling-clone .aboutus-l h3{font-size: 24px;}
+.section-carpooling-clone .aboutus-r .about-help-cnt b{font-size: 24px;}
+.car-pooling-mid-text{ font-size:15px; margin:0 0 20px;}
+.our-products-bottom-button a{ margin:0 5px; width:180px;}
+.how-to-payment-inner .payment-gate .pay-img2{background-size:100% auto; left:0px;}
+.how-to-payment-inner .payment-gate{ overflow:hidden;}
+.how-to-payment-inner .payment-gate .pay-img1{ position: relative; transform:rotate(50deg); top:15px;}
+.how-to-payment-inner .pay-img1 .onimg-text{left: 53px; top: 60px; transform: rotate(-49deg);}
+.how-to-payment-inner .payment-gate .pay-img3{ margin:50px 0 0 10px;}
+
+}
+
+@media screen and (min-width:1px) and (max-width:400px) {
+.car-pooling-top-video{ height:110px; overflow:hidden;}
+.car-pooling-top-video-in{ height:110px;}
+.our-products-bottom-button{ padding:20px 0;}
+.our-products-bottom-button a{ width:90%; margin:0 0 15px;}
+}
+
+@media screen and (min-width:1px) and (max-width:350px) {
+.how-to-payment-inner .payment-gate .pay-img1{background-size:100% auto; left:0px; width:350px;}
+.how-to-payment-inner .pay-img1 .onimg-text{left: 35px;  top: 66px;}
+.section-carpooling-clone .aboutus-r .about-help-cnt ul li span{ width:100%;}
+}
+
+@media screen and (min-width:568px) and (max-width:666px) {
+h1.page-heading{font-size:30px;}
+.inner-banner{ margin:0px;}
+.car-pooling-top-video-in img{ width:100%;}
+.car-pooling-top-video{ height:185px; overflow:hidden;}
+.car-pooling-top-video-in{ height:185px;}
+.start-step .start-step-inner{ width:98%;}
+.start-step ul{ background:none;}
+.start-step li{ width:48%; margin:0 5px 30px; text-align:center;}
+.start-step li p{ min-height:69px;}
+.how-to-payment{ height:auto;}
+.how-to-payment-inner{ width:100%; padding-bottom:0px;}
+.how-to-payment-inner h2.page-heading{ margin:0 0 25px; font-size:30px;}
+.how-to-payment-inner .payment-gate .pay-img1{ position:relative; top:0px;}
+.how-to-payment-inner .payment-gate .pay-img2{left: 0; margin:0px; position: relative; top: 140px; transform: rotate(100deg);}
+.how-to-payment-inner .payment-gate .pay-img3{  float: left; margin:230px 0 0 10px; position: relative; right: 0; top: 0;}
+.how-to-payment-inner .payment-gate .pay-img4{  float: right; position: relative; top: -50px;}
+.how-to-payment-inner .pay-img2 .onimg-text{left: -109px; margin: 143px 0 0; transform: rotate(-99deg);}
+
+.section-carpooling-clone .section-carpooling-clone-inner{ width:97%;}
+.section-carpooling-clone .aboutus-l{ width:100%;}
+.section-carpooling-clone .aboutus-r{ width:100%;}
+.about-help-cnt{ margin:20px 0 0; padding:0px; width:100%;}
+.car-pooling-bottom-part .car-pooling-bottom-part-right span img{ width:100%;}
+.car-pooling-bottom-part{ padding-bottom:0px;}
+.car-pooling-bottom-part .car-pooling-bottom-part-left{ width:100%; margin:0 0 10px;}
+.car-pooling-bottom-part .car-pooling-bottom-part-right{ width:100%; margin:0 0 30px;}
+.car-pooling-mid-text{ padding:20px 0; font-size:18px;}
+}
+
+@media screen and (min-width:600px) and (max-width:700px) {
+.how-to-payment{ padding:0 0 20px;}
+.how-to-payment-inner .payment-gate .pay-img4{ top:80px;}
+}
+
+@media screen and (min-width:667px) and (max-width:767px) {
+h1.page-heading{font-size:33px;}
+.inner-banner{ margin:0px;}
+.car-pooling-top-video-in img{ width:100%;}
+.car-pooling-top-video{ height:219px; overflow:hidden;}
+.car-pooling-top-video-in{ height:220px;}
+.start-step .start-step-inner{ width:98%;}
+.start-step ul{ background:none;}
+.start-step li{ width:31%; margin:0 5px 30px; text-align:center;}
+.start-step li p{ min-height:69px;}
+.how-to-payment{ height:auto;}
+.how-to-payment-inner{ width:100%;}
+.how-to-payment-inner h2.page-heading{ margin:0 0 25px; font-size:30px;}
+.how-to-payment-inner .payment-gate .pay-img1{ position:relative; top:0px;}
+.how-to-payment-inner .payment-gate .pay-img2{left: 0; margin: 0 0 0 50px; position: relative; top: 140px; transform: rotate(100deg);}
+.how-to-payment-inner .payment-gate .pay-img3{  float: left; margin: 230px 0 0 10px; position: relative; right: 0; top: 0;}
+.how-to-payment-inner .payment-gate .pay-img4{  float: right; position: relative; right: 20px; top: 140px;}
+.how-to-payment-inner .pay-img2 .onimg-text{left: -109px; margin: 143px 0 0; transform: rotate(-99deg);}
+
+.section-carpooling-clone .section-carpooling-clone-inner{ width:97%;}
+.section-carpooling-clone .aboutus-l{ width:100%;}
+.section-carpooling-clone .aboutus-r{ width:100%;}
+.about-help-cnt{ margin:20px 0 0; padding:0px; width:100%;}
+.car-pooling-bottom-part .car-pooling-bottom-part-right span img{ width:100%;}
+.car-pooling-bottom-part{ padding-bottom:0px;}
+.car-pooling-mid-text{ padding:20px 0; font-size:18px;}
+}
+
+@media screen and (min-width:768px) and (max-width:1023px) {
+h1.page-heading{font-size:33px;}
+.inner-banner{ margin:0px;}
+.car-pooling-top-video-in img{ width:100%;}
+.car-pooling-top-video{ height:243px; overflow:hidden;}
+.car-pooling-top-video-in{ height:241px;}
+.start-step .start-step-inner{ width:98%;}
+.start-step ul{ background:none;}
+.start-step li{ width:31%; margin:0 5px 30px; text-align:center;}
+.start-step li p{ min-height:69px;}
+.how-to-payment{ height:995px;}
+.how-to-payment-inner{ width:100%;}
+.how-to-payment-inner .payment-gate .pay-img2{ left:0; top:438px;}
+.how-to-payment-inner .payment-gate .pay-img3{  right:10px; top:0;}
+.how-to-payment-inner .payment-gate .pay-img4{right: 0; top: 330px;}
+.section-carpooling-clone .section-carpooling-clone-inner{ width:100%;}
+.about-help-cnt{ padding-left:20px; width:99%;}
+.section-carpooling-clone .aboutus-l h3{ margin-left:10px; width:97%;}
+.car-pooling-bottom-part .car-pooling-bottom-part-right span img{ width:100%;}
+.car-pooling-bottom-part{ padding-bottom:0px;}
+}
+
+@media screen and (min-width:1024px) and (max-width:1280px) {
+.inner-banner{ margin:0px;}
+.car-pooling-top-video-in img{ width:100%;}
+.car-pooling-top-video{ height:328px; overflow:hidden;}
+.car-pooling-top-video-in{ height:328px;}
+.start-step .start-step-inner{ width:98%;}
+.start-step ul{ background:none;}
+.start-step li{ width:25%; margin:0 0 30px; text-align:center;}
+.start-step li p{ min-height:69px;}
+.how-to-payment{ height:995px;}
+.how-to-payment-inner{ width:100%;}
+.how-to-payment-inner .payment-gate .pay-img2{ left:101px; top:438px;}
+.how-to-payment-inner .payment-gate .pay-img4{right: 0; top: 510px;}
+.how-to-payment-inner .payment-gate .pay-img3{  right: 213px; top: 195px;}
+.section-carpooling-clone .section-carpooling-clone-inner{ width:100%;}
+.about-help-cnt{ padding-left:20px; width:99%;}
+.section-carpooling-clone .aboutus-l h3{ margin-left:10px; width:97%;}
+.car-pooling-bottom-part .car-pooling-bottom-part-right span img{ width:100%;}
+.car-pooling-bottom-part{ padding-bottom:0px;}
+}

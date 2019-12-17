@@ -1,0 +1,107 @@
+.inner-banner{ height:95px;}
+.start-car-pooling{ margin:0px; padding:0; float:left; width:100%;}
+.car-pooling-top-video{ margin:0px; padding:0; float:left; width:100%; background:url(C:\Users\Diana\Documents\PROJECT1\gocar\GoCarShare\gocarshare.com\images\images\car-pooling\car-pooling-top-video-bg.jpg) repeat-x; height:425px;}
+.car-pooling-top-video-in{ margin:0px; padding:0; float:left; width:100%; height: 425px; cursor:pointer;}
+.car-pooling-top-video-in iframe {display: table; margin:0 auto; width:59.5%;}
+
+.start-step{margin:0; padding:35px 0 45px; float:left; width:100%; background:#0e0e0e;}
+.start-step .start-step-inner{ margin:0 auto; padding:0px; width:1300px;}
+.start-step ul{margin:19px 0 0 0; padding:0px; float:left; width:100%; background:url(C:\Users\Diana\Documents\PROJECT1\gocar\GoCarShare\gocarshare.com\images\images\car-pooling\step-libg.png) no-repeat left top 105px;}
+.start-step li{margin:0 0 0 38px; padding:0px; float:left; width:166px; display:block;}
+.start-step li span{margin:0 0 23px; padding:0px; float:left; width:100%; text-align:center;}
+.start-step li b{margin:0 0 10px 8px; padding:0px; float:left; width:100%; font-size:18px; line-height:22px; text-transform:uppercase; font-weight:700;}
+.start-step li p{margin:0px 0 0 8px; padding:0px; float:left; width:100%; font-size:14px; line-height:20px; text-transform:none; font-weight:300; color:#767676;}
+.start-step li.step-1 b{color:#009cff;}
+.start-step li.step-2 b{color:#ff387e;}
+.start-step li.step-3 b{color:#4eba1a;}
+.start-step li.step-4 b{color:#ff8400;}
+.start-step li.step-5 b{color:#1abdc3;}
+.start-step li.step-6 b{color:#7a2af1;}
+
+.car-pooling-diagrams{ margin:0px; padding:20px 0 40px; float:left; width:100%; background:#3d3d3d; position:relative;}
+.car-pooling-diagrams .container{max-width:1340px; padding:0px;}
+.car-pooling-diagrams .container .row{ margin:0px; padding:0px;}
+.car-pooling-diagrams .container .row .col-lg-12{ margin:0px; padding:0px;}
+.car-pooling-diagrams .container img{max-width:100%;}
+
+.how-to-payment{background:#0e0e0e url(C:\Users\Diana\Documents\PROJECT1\gocar\GoCarShare\gocarshare.com\images\images\car-pooling\bg-map.png) no-repeat scroll center top 132px; float:left; height:875px; margin:0; padding:0; width:100%;}
+.how-to-payment-inner{ float:none; margin:0 auto; padding:50px 0; width:1277px;}
+.how-to-payment-inner h2.page-heading{margin:0 0 30px; padding:0; float:left; width:100%; color:#ff6e00; font-size:41px; font-weight:700; text-transform:uppercase; text-align:center;}
+
+.how-to-payment-inner .payment-gate {float: left; margin: 0; padding: 0; position: relative; width: 100%; }
+.how-to-payment-inner .payment-gate .pay-img1{position:absolute; top:15px; left:6px; width:390px; height:390px; background:url(C:\Users\Diana\Documents\PROJECT1\gocar\GoCarShare\gocarshare.com\images\images\car-pooling\pay-img-1.png) no-repeat center;}
+.how-to-payment-inner .payment-gate .pay-img1-inner{ margin:0px; padding:0px; float:left; width:100%; position:relative;}
+.how-to-payment-inner .payment-gate .pay-img2{position:absolute; top:268px; left:351px; width:579px; height:392px; background:url(C:\Users\Diana\Documents\PROJECT1\gocar\GoCarShare\gocarshare.com\images\images\car-pooling\pay-img-2.png) no-repeat center;}
+.how-to-payment-inner .payment-gate .pay-img2-inner{ margin:0px; padding:0px; float:left; width:100%; position:relative;}
+.how-to-payment-inner .payment-gate .pay-img3{position:absolute; top:15px; right:283px; width:299px; height:299px; background:url(C:\Users\Diana\Documents\PROJECT1\gocar\GoCarShare\gocarshare.com\images\images\car-pooling\pay-img-3.png) no-repeat center;}
+.how-to-payment-inner .payment-gate .pay-img3-inner{ margin:0px; padding:0px; float:left; width:100%; position:relative;}
+.how-to-payment-inner .payment-gate .pay-img4{position:absolute; top:370px; right:25px; width:300px; height:296px; background:url(C:\Users\Diana\Documents\PROJECT1\gocar\GoCarShare\gocarshare.com\images\images\car-pooling\pay-img-4.png) no-repeat center;}
+.how-to-payment-inner .payment-gate .pay-img4-inner{ margin:0px; padding:0px; float:left; width:100%; position:relative;}
+
+.how-to-payment-inner .pay-img1 .onimg-text{margin:0px; paddig:0px; /*position:absolute;*/ top:74px; left:43px; width:211px; position:relative; float:left;}
+.how-to-payment-inner .pay-img1 .onimg-text b{margin:0 0 34px; padding:0px; float:left; width:100%; text-align:center; font-size:24px; line-height:22px; font-weight:800; color:#fff; text-transform:uppercase;}
+.how-to-payment-inner .pay-img1 .onimg-text ul{margin:0px; padding:0px; float:left; width:100%;}
+.how-to-payment-inner .pay-img1 .onimg-text li{margin:0 0 4px 1px; padding:0 0 0 12px; float:left; width:94%; background:url(C:\Users\Diana\Documents\PROJECT1\gocar\GoCarShare\gocarshare.com\images\images\car-pooling\dot-transparent.png) no-repeat left top 5px; color:#fff; font-size:12px; line-height:15px; font-weight:300; font-family:Arial, Helvetica, sans-serif; display:block;}
+.how-to-payment-inner .pay-img1 .onimg-text p {margin:0; padding:0px; float:left; width:100%; text-align:center;}
+.how-to-payment-inner .pay-img1 .onimg-text p span{margin:38px 0 0; padding:0px; float:left; width:100%; text-align:center;}
+.how-to-payment-inner .pay-img1 .onimg-text span{margin:38px 0 0; padding:0px; float:left; width:100%; text-align:center;}
+
+.how-to-payment-inner .pay-img2 .onimg-text{margin:0px; paddig:0px; /*position:absolute;*/ margin-top:155px; width:211px; position:relative; float:left; left:-126px;}
+.how-to-payment-inner .pay-img2 .onimg-text b{margin:0 0 4px; padding:0px; float:left; width:100%; text-align:center; font-size:22px; line-height:22px; font-weight:800; color:#fff; text-transform:uppercase;}
+.how-to-payment-inner .pay-img2 .onimg-text ul{margin:0 0 0 7px; padding:0px; float:left; width:100%;}
+.how-to-payment-inner .pay-img2 .onimg-text li{margin:4px 0 4px 1px; padding:0 0 0 10px; float:left; width:94%; background:url(C:\Users\Diana\Documents\PROJECT1\gocar\GoCarShare\gocarshare.com\images\images\car-pooling\dot-transparent.png) no-repeat left top 6px; color:#fff; font-size:12px; line-height:15px; font-weight:300; font-family:Arial, Helvetica, sans-serif; display:block;}
+.how-to-payment-inner .pay-img2 .onimg-text p {margin:0; padding:0px; float:left; width:100%; text-align:center;}
+.how-to-payment-inner .pay-img2 .onimg-text p span{margin:0; padding:0px; float:left; width:100%; text-align:center;}
+.how-to-payment-inner .pay-img2 .onimg-text > span{margin:-3px 0 0 0; padding:0px; float:left; width:100%; text-align:center;}
+
+.how-to-payment-inner .pay-img2 .onimg-text2{ position:relative; top:27.5px; left:238px; width:171px; float:left;}
+.how-to-payment-inner .pay-img2 .onimg-text2 > span{margin:0px; padding:0px; float:left; width:auto; color:#ED6331; text-transform:uppercase; font-size:12px; font-weight:700; line-height:16px; }
+.how-to-payment-inner .pay-img2 .onimg-text2 > p{margin:0px; padding:0px; float:left; width:100%; color:#989898; text-transform:uppercase; font-size:11px; font-weight:400; line-height:16px;}
+.how-to-payment-inner .pay-img2 .onimg-text3{position:absolute; top:250px; left:307px; width:211px;}
+.how-to-payment-inner .pay-img2 .onimg-text3 > span{margin:0px; padding:0px; float:left; width:auto; color:#8CB030; text-transform:uppercase; font-size:12px; font-weight:700; line-height:16px;}
+.how-to-payment-inner .pay-img2 .onimg-text3 > p{margin:0px; padding:0px; float:left; width:100%; color:#989898; text-transform:uppercase; font-size:11px; font-weight:400; line-height:16px;}
+
+.how-to-payment-inner .pay-img3 .onimg-text{margin:0px; paddig:0px; /*position:absolute;*/ margin-top:59px; margin-left:45px; width:216px; position:relative; float:left;}
+.how-to-payment-inner .pay-img3 .onimg-text b{margin:0 0 1px; padding:0px; float:left; width:100%; text-align:center; font-size:24px; line-height:22px; font-weight:800; color:#fff; text-transform:uppercase;}
+.how-to-payment-inner .pay-img3 .onimg-text .small-txt{margin:0px; padding:0px; float:left; width:100%; text-align:center; font-size:12px; line-height:16px; font-weight:700; text-transform:uppercase; color:rgba(255, 255, 255, 0.5);}
+.how-to-payment-inner .pay-img3 .onimg-text ul{margin:7px 0 0; padding:0px; float:left; width:100%;}
+.how-to-payment-inner .pay-img3 .onimg-text li{margin:0 0 4px 4px; padding:0 0 0 12px; float:left; width:92%; background:url(C:\Users\Diana\Documents\PROJECT1\gocar\GoCarShare\gocarshare.com\images\images\car-pooling\dot-transparent.png) no-repeat left top 7px; color:#fff; font-size:12px; line-height:15px; font-weight:300; font-family:Arial, Helvetica, sans-serif; display:block;}
+.how-to-payment-inner .pay-img3 .onimg-text p {margin:0; padding:0px; float:left; width:100%; text-align:center;}
+.how-to-payment-inner .pay-img3 .onimg-text p span{margin:-10px 0 0; padding:0px; float:left; width:100%; text-align:center;}
+.how-to-payment-inner .pay-img3 .onimg-text > span{margin:-14px 0 0 0; padding:0px; float:left; width:100%; text-align:center;}
+
+.how-to-payment-inner .pay-img4 .onimg-text{margin:0px; paddig:0px; /*position:absolute;*/ margin-top:57px; margin-left:45px; width:211px; position:relative; float:left;}
+.how-to-payment-inner .pay-img4 .onimg-text b{margin:0 0 3px; padding:0px; float:left; width:100%; text-align:center; font-size:24px; line-height:22px; font-weight:800; color:#fff; text-transform:uppercase;}
+.how-to-payment-inner .pay-img4 .onimg-text .small-txt{margin:0px; padding:0px; float:left; width:100%; text-align:center; font-size:12px; line-height:16px; font-weight:700; text-transform:uppercase; color:rgba(255, 255, 255, 0.5);}
+.how-to-payment-inner .pay-img4 .onimg-text ul{margin:7px 0 0 5px; padding:0px; float:left; width:100%;}
+.how-to-payment-inner .pay-img4 .onimg-text li{margin:0 0 4px 1px; padding:0 0 0 12px; float:left; width:94%; background:url(C:\Users\Diana\Documents\PROJECT1\gocar\GoCarShare\gocarshare.com\images\images\car-pooling\dot-transparent.png) no-repeat left top 7px; color:#fff; font-size:12px; line-height:15px; font-weight:300; font-family:Arial, Helvetica, sans-serif; display:block;}
+.how-to-payment-inner .pay-img4 .onimg-text p {margin:0; padding:0px; float:left; width:100%; text-align:center;}
+.how-to-payment-inner .pay-img4 .onimg-text p span{margin:0; padding:0px; float:left; width:100%; text-align:center;}
+.how-to-payment-inner .pay-img4 .onimg-text > span{margin:-5px 0 0 0; padding:0px; float:left; width:100%; text-align:center;}
+
+.section-carpooling-clone{ margin:0px; padding:10px 0 20px; float:left; width:100%;}
+.section-carpooling-clone .section-carpooling-clone-inner{ margin:0 auto; padding:0px; width:1300px;}
+.section-carpooling-clone .aboutus-l{ margin:20px 0 0; padding:0px; float:left;}
+.section-carpooling-clone .aboutus-l h3{ margin:0 0 15px; padding:0px; float:left; width:100%; color:#000000; font-size:27px; font-weight:700;}
+.section-carpooling-clone .aboutus-l span{ margin:10px 0 0; padding:0px; float:left; width:100%;}
+.section-carpooling-clone .aboutus-r{ margin:0px;}
+.section-carpooling-clone .aboutus-r .about-help-cnt b{ margin:0 0 15px; padding:0px; float:left; width:100%; color:#000000; font-size:27px; font-weight:700;}
+.section-carpooling-clone .aboutus-r .about-help-cnt ul{ margin:0px; padding:0px; float:left; width:100%;}
+.section-carpooling-clone .aboutus-r .about-help-cnt ul li{ color:#363636; display: block; font-size: 16px; margin: 12px 0; padding:0px; float:left; width:100%;}
+.section-carpooling-clone .aboutus-r .about-help-cnt ul li em{margin:0 15px 0 0; padding:0px; float:left;}
+.section-carpooling-clone .aboutus-r .about-help-cnt ul li span{ margin:0px; padding:0px; float:left; width:80%;}
+.section-carpooling-clone .aboutus-r .about-help-cnt ul li strong{ margin:0px; padding:0px; float:left; width:100%; color:#ec6700}
+
+.car-pooling-mid-text{ margin:0 0 30px; padding:30px 0; float:left; width:100%; background:#dbdada; text-align:center; line-height:28px; font-size:20px}
+
+.car-pooling-bottom-part{ margin:0px; padding:10px 0 40px; float:left; width:100%;}
+.car-pooling-bottom-part h3{ margin:0 0 10px; padding:0px; float:left; width:100%;}
+.car-pooling-bottom-part span.inner-heading1{margin:0 0 15px; padding:0px; float:left; width:100%; color:#000000; font-size:27px; font-weight:600;}
+.car-pooling-bottom-part p{padding:0px; float:left; width:100%; line-height:24px;}
+.car-pooling-bottom-part ul{padding:0px; float:left; width:100%;}
+.car-pooling-bottom-part ul li{ margin:0 0 10px; padding:0px; float:left; width:100%;}
+.car-pooling-bottom-part .car-pooling-bottom-part-left{ margin:0px; padding:0px; float:left; width:49%;}
+.car-pooling-bottom-part .car-pooling-bottom-part-left span{margin:0 0 20px; padding:0px; float:left; width:100%; color:#000000; font-size:27px; font-weight:600;}
+.car-pooling-bottom-part .car-pooling-bottom-part-right{ margin:0px; padding:0px; float:right; width:49%;}
+.car-pooling-bottom-part .car-pooling-bottom-part-right h4{margin:0 0 20px; padding:0px; float:left; width:100%; color:#000000; font-size:27px; font-weight:600;}
+.car-pooling-bottom-part h4.inner-heading1{margin:0 0 15px; padding:0px; float:left; width:100%; color:#000000; font-size:27px; font-weight:600;}
